@@ -1,0 +1,3 @@
+Deploying contract_ABI with the account: 0x68e6580441C2CA01ea7cb12afb26F6D6bf4D1Bf6
+Account balance: 1679250190000000000
+AppContract address: 0xcAa0067E8c4EcC03d7a365Cd4C2F2567b5B39BFF
